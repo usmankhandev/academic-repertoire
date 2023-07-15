@@ -1,0 +1,333 @@
+DevOps:
+
+Advanced Ansible
+Terraform Cloud
+CKD
+CKA and Security 
+CI/CD of various kinds of projects
+Advanced Python with projects
+
+CSS:
+
+1. Execution Plan for CSS Study:
+
+Interpretation and Structure
+
+Interpretation of topic - 10 <- 15 (old)
+Type of essay - 5 <- 10 (old)
+Thesis Statement - 10 <- 15 (old)
+Outline - 20 <- 25 (old)
+
+Parapgraphs
+
+Introduction - 25 <- 35 (old)
+Expository Body Paragraph - 7 
+Rebuttal Paragraph - 7 * n <- 12 * n(old)
+Support Argument's Paragraph - 6*n
+    a. 'Why'body paragraph
+    b. 'How' body paragraph
+Recommendation Body Paragraph - 7 * n
+Conclusion Paragraph - 15 <- 20(old)
+Proofreading - 10 
+= 170 mins 
+
+5 + 12 + 4 + 5
+
+
+
+
+
+
+
+Essay Themes:
+
+Political Situation in Pakistan 
+Power and Authority
+
+Certain Keywords:
+
+When it comes to feelings, Einstein and Dawkins are no better than anyone else.
+
+Man and Universe (8)
+
+    1. Man as part of a design infinitely vaster than himself
+        
+        Interpretation:
+        
+        Thesis Statement: 
+           a. Though some people argue that like other living organisms human existence in the universe is also the result of evolution process of some natural phenomena; however, the statement suggests that human beings are intricately connected to a grand and complex system, and have a purpose in life which is evident from various spiritual and experimental evidences proposing connectedness of human beings with a greater cosmic order orchestrated by a divine design. (discarded)
+
+            b. While some people may argue that humans are merely products of random chance and natural process like other living organisms; however, the evidence of interconnectedness, universal moral principles and transcendent experiences support the thesis that humans are intricately woven into a design far greater than themselves for moral guidance and collective progress, pointing to the existence of a higher cosmic order guiding human existence.
+    
+    
+    2. Man is condemned to be free
+
+        Interpretation:
+            
+            The statement suggests that human freedom, with responsibility and subject to law,is essential for human progress and societal well-being. However, the statement underscores the existentialist view of absolute freedom in all respects of life because unbridled human freedom belittles the significance of responsibility of human actions and choices and may promote lawlessness in society. Therefore, the word 'condemned' in the statement does not directly deny human freedom altogether but rather argues for freedom with responsibilty.
+
+
+
+
+       Man was born free and everywhere he is in chains
+
+    
+    3. The divided self and the process of unification
+
+       Interpretation:
+       
+       Divided self: emotionally, spiritually, physically, mentally etc.
+       Process of unification: through social justice, social cohesion, mental therapy, following moral codes etc.
+
+       The statement suggests that a concept related to the inner conflict and the journey towards achieving unity within oneself. It implies that individuals may experience 
+       a sense of fragmentation and disintegration within their own identities, which can manifest as conflicting desires, beliefs and values. In the statement above, the 
+       'divided self' represents this internal fragmentation and discord. Moreover, the term 'process of unification' refers to the process of reconciling these inner conflicts and
+       achieving a state of harmony and integration. It points out to the efforts of finding common ground, resloving conflicts and establishing a sense of wholeness within oneself.
+
+       In a broader context, it could refer to the psychological, spiritual, philosophical and emotional concepts embodying complexities of human nature and the struggle among different
+       aspects of self such as the quest for self-awareness, self-acceptance and personal growth. The statement emphasizes on involving introspection, self-reflection, therapy, personal
+       development practices and engaging within spiritual and emotional teachings.
+
+       Overall, the topic of the essay highlights the notion that individuals may experience inner divisions and conflicts; however, there is a potential for growth and self-integration through
+       a conscious process of unification.
+       
+       Type of the essay:
+       
+       Expository:
+
+            Provide a detailed analysis, definition and explanation of the 'divided self' and support them by adding revelant case studies in this regard.
+            Also aim to inform and educate the reader about the process of unification going on in inner self of individuals to tackle the divided self.
+        
+       Thesis Statement:
+
+       
+       
+       Outline:
+       
+       Introduction
+       Interpretation of the statement
+       Why do individuals experience inner conflicts and divisions as part of a divided self?
+        
+            a. False beliefs
+            b. Wrong values
+            c. Conflicting desires
+            d. Turbulent surroundings
+
+       How can the path towards unification of internal fragmentation be paved?
+            
+            a. Exploring human psychology 
+            b. Understanding formation of human identity by examining individual's living environment
+            c. Delving into intricacies of personal growth and development issues
+            d. Opening up avenues for critical discussion
+            e. Participating in open discussion 
+            f. Learning diverse viewpoints about various subject matters
+            g. Developing objective analysis of oneself
+
+       What could be the implications upon treading the path of unification
+            
+            a. Unification of inner conflicts help achieve inner harmony of ideas
+            b. Clarity of thought in day-to-day matters
+            c. Peaceful resolution of external disputes
+            d. Fosters personal fulfillment
+            e. Common grounds and wholeness within onself
+
+       Conclusion.
+
+       Introduction:
+
+       Over the annals of human history, humans have been experiencing internal divisions and a sense of fragmentation from time to time. There may be numerous, both abstract and concrete, reasons 
+       to such human sufferings. From conflicting desires and dogmas to false value and wrong areas of interest created by society, humankind has been falling prey to inner disharmony since long. 
+       
+
+       
+
+       
+        
+       
+
+        
+
+
+
+
+
+
+
+    4. Man is a slave of habit
+    5. Man does no live by bread alone
+    6. Man proposes and God disposes
+        
+        Interpretation:
+        
+        Thesis Statement:
+
+        Though humans can make plans and aspire certain dividends in various aspects of life; however, the ultimate outcome is determined by an exalted authority. The essay seeks to
+        explore the profound relationship/ intricate interplay between humankind and a higher power while delving into the limitations of human control and his aspirations, the 
+        necessity for acceptance and adaptability in the face of life's uncertainities and the role of faith in shaping human lives.
+        
+
+
+
+    7. Humankind cannot bear very much of reality
+
+humanity, self-discovery and technology, value of faith, altered identities, future of humanity and moral depravity (5)
+
+    1. The process of self-discovery has now been technologically outsourced
+        
+        Thesis Statement:
+           
+    2. Value of faith in a computerized world
+    3. Human inventions move the societies backward
+    4. Science without conscience is the ruin of people
+    5. Values are not what humanity is but what humanity ought to be
+
+        Essay:
+
+        In the vast tapestry of human existence, values form the very threads that weave together the fabric of our collective aspirations and moral compass. They transcend individual             perspectives and cultural nuances, resonating with the universal yearning for a higher standard of being. The notion that values are not merely a reflection of what humanity is but rather a compelling vision of what humanity ought to be encapsulates the essence of this profound topic. This essay explores the transformative power of values, examining how they inspire humanity to rise above its present limitations and strive for a more enlightened and compassionate future.
+
+        From time immemorial, humans have sought meaning and purpose, seeking to align their actions with principles that reflect the best of their nature. Values serve as guiding lights, illuminating the path towards a more harmonious and virtuous existence. They are the embodiments of timeless ideals such as integrity, empathy, justice, and respect, which call upon individuals and societies to transcend their flaws and embrace their higher potential.
+
+        Throughout history, the world has witnessed remarkable individuals who have embodied the power of values and acted as catalysts for profound change. Visionaries like Mahatma Gandhi, Martin Luther King Jr., and Mother Teresa exemplified the transformative impact of values, inspiring millions with their unwavering commitment to justice, equality, and compassion. Their lives serve as reminders of the incredible capacity within each person to manifest values and create meaningful change in the world.
+
+        Yet, the journey towards realizing these lofty ideals is not without challenges. Conflicts, moral dilemmas, and differing perspectives can present formidable obstacles on the path to embodying values. However, it is precisely in the face of adversity that the true strength and resilience of values shine brightest. Through introspection, dialogue, and a shared commitment to progress, individuals and societies can navigate the complexities of living up to the values that define our better selves.
+
+        Education and collective engagement play pivotal roles in nurturing and promoting values. Schools, communities, and institutions have the responsibility to instill values in the hearts and minds of future generations, fostering a culture that values empathy, critical thinking, and ethical decision-making. By nurturing a generation steeped in the importance of values, society paves the way for a future where humanity's potential is fully realized.
+
+        In conclusion, the concept that values are not confined to the limitations of what humanity currently is but rather illuminate the path towards what humanity ought to be is a testament to the transcendence of the human spirit. Values serve as guiding stars, beckoning humanity towards a more noble and enlightened existence. By embracing and embodying values, individuals and societies can move closer to realizing their inherent potential and collectively shape a world that reflects the highest aspirations of humanity.
+
+    6. Life is a long journey between human being and being humane
+
+
+Adversity, Challenges or Complex overplay between external and internal challenges (5)
+
+1. Mindful Manifesto is the Catalyst to a Tranquil Self
+2. A ship in Harbour is Safe, but that is not What Ship is for
+3. Sweet are the uses of Adversity
+4. Prosperity is a great Teeacher, Adversity is greater
+5. Courage to accept and dedication to improve are two keys to success
+
+
+
+individual interest and societal interest, survival of civilizations (3)
+
+1. Best for an individual is not necessarily best for the society
+2. The survival of civilizations depends not on the advances but on the distribution of knowledge
+
+
+truth and simplicity, truth is lived not taught (2)
+
+1. Wisdom finds truth
+2. Simplicity is the ultimately sophistication
+3. Truth is lived, not taught
+
+Mutual respect and Harmonious Coexistance and Perception of others
+Significance of preparations
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Certain Disciplines:
+
+    01. Ideology and Change – Done
+    02. The Concept of Change – Done 
+    03. Politics, Authority, power, quest for power, political purification, state and its citizenry, power and corruption, greater responsibility 
+        comes with greater   authority (6) – Done 
+    
+
+    04. Art and Theater of the Absurd, Art and Literature as cultural artifacts (6)
+        
+        1. Art for Peace
+        2. Art and Morality
+
+            Relationship between art and morality
+            Can art be moral or immoral?
+            Role of art in shaping moral views and promoting moral change
+            
+            a. By challenging existing norms and perspectives
+            b. By inculcating a sense of subjectivity and diversification
+            c. Through promoting empathy and compassion
+            d. Art inspires action
+            e. Encourage dialogue and harmonious coexitence
+            f. Creating awareness about social and moral taboos
+
+            Limits of art's moral influence
+
+            a. Element of subjectivity in art
+            b. Cultural barriers and societal norms
+            c. Selective audience due to limited outreach of art
+            d. Limited influence on established beliefs
+            e. Commercialization of art
+
+            Thesis Statement:
+            
+            While art and morality have a complex relationship, art can both be moral and immoral depending on how it is interpreted as it has a significant role
+            in shaping moral views and promoting moral change through challening existing norms and perspectives, creating awareness about various social dogmas and 
+            encouraging dialogue and harmonious coexistence. However, there are limitations in art's moral influence such as the element of subjectivity, cultural 
+            barriers and ingrained societal norms combined with established beliefs.
+            
+
+
+            
+
+
+
+
+        3. Every Art is an Immitation of Nature
+        4. Literature as a Great Cultural Artifact
+        5. Theatre of the Absurd
+
+    05. Education and Knowledge, youth and future of a civilization through education, Culture and Civilization (5)
+    06. Happiness and success, self improvement and courage to accept ones mistakes (4)
+    07. Reality and Reasoning, Anticipation, Use of force and lack of reasoning (3)
+    08. History (3)
+    09. Wars, great nations, new war fronts (2)
+    10. Liberty, human happiness and dignity(2)
+
+    11. Experience
+    12. Self-conceit, self destruction
+    13. Economy and austerity
+    14. Moral Depravity, poverty
+    15. Punctuality
+    16. Science
+    17. Problems and their solutions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
